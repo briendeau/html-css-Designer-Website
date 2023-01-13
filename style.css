@@ -422,6 +422,11 @@ nav .fa-solid {
         flex-basis: 100%;
     }
 
+    .about-col-1 img {
+        display: flexbox;
+        flex-direction: column;
+    }
+
     .about-col-1 {
         margin-bottom: 30px;
     }
