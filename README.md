@@ -6,5 +6,5 @@ I have many years of doing scientific research and coding experience and would a
 Please send me an email or call to get in touch.
 ## brianriendeaujr@gmail.com
 
-# Check out my live portfolio at https://briendeau.github.io/Portfolio2022/
+# Check out my live portfolio at https://briendeau.github.io/Portfolio-2023/
 ![preview](https://user-images.githubusercontent.com/62812999/211224553-5d57705d-7401-4e72-b657-878873f20d35.png)
